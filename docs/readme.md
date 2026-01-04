@@ -1,6 +1,6 @@
 ﻿### modules
 
-1. module 1
+1. [module 1](mod1.md)
 2. module 2
 3. module 3
 
